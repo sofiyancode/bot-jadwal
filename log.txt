@@ -1,0 +1,145 @@
+{"update_id":653043368,
+"message":{"message_id":100,"from":{"id":5969455758,"is_bot":false,"first_name":"Symsljihad","language_code":"en"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754316940,"text":"jadwal saya"}}
+Nama: Symsljihad (Symsljihad) | Hari: Senin
+{"update_id":653043369,
+"message":{"message_id":102,"from":{"id":5114909382,"is_bot":false,"first_name":"Hariadi, S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754317881,"text":"saya jadwal"}}
+Nama: Hariadi, S.Pd (Hariadi, S.Pd) | Hari: Senin
+{"update_id":653043370,
+"message":{"message_id":104,"from":{"id":5114909382,"is_bot":false,"first_name":"Hariadi, S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754317909,"message_thread_id":103,"reply_to_message":{"message_id":103,"from":{"id":8001909360,"is_bot":true,"first_name":"Bot Jadwal","username":"Syamsuljihad_bot"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754317883,"text":"Halo Hariadi, S.Pd, ketik jadwal saya untuk melihat jadwal mengajar hari ini.","entities":[{"offset":5,"length":13,"type":"bold"},{"offset":26,"length":11,"type":"bold"}]},"text":"Banyak omong kamu"}}
+Nama: Hariadi, S.Pd (Hariadi, S.Pd) | Hari: Senin
+{"update_id":653043371,
+"message":{"message_id":106,"from":{"id":5969455758,"is_bot":false,"first_name":"Symsljihad","language_code":"en"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754368619,"text":"saya"}}
+📢 Pesan dari grup:
+🆔 ID Grup: -1002702335259
+📛 Nama Grup: JADWAL OTOMATIS
+👤 Pengirim: Symsljihad
+
+{"update_id":653043372,
+"message":{"message_id":107,"from":{"id":5969455758,"is_bot":false,"first_name":"Symsljihad","language_code":"en"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754370196,"text":"jadwal saya"}}
+📢 Pesan dari grup:
+🆔 ID Grup: -1002702335259
+📛 Nama Grup: JADWAL OTOMATIS
+👤 Pengirim: Symsljihad
+
+{"update_id":653043373,
+"message":{"message_id":108,"from":{"id":5969455758,"is_bot":false,"first_name":"Symsljihad","language_code":"en"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754370397,"text":"jadwal saya"}}
+📢 Pesan dari grup:
+🆔 ID Grup: -1002702335259
+📛 Nama Grup: JADWAL OTOMATIS
+👤 Pengirim: Symsljihad
+
+{"update_id":653043375,
+"message":{"message_id":115,"from":{"id":5969455758,"is_bot":false,"first_name":"Symsljihad","language_code":"en"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754371279,"text":"jadwal saya"}}
+📢 Pesan dari grup:
+🆔 ID Grup: -1002702335259
+📛 Nama Grup: JADWAL OTOMATIS
+👤 Pengirim: Symsljihad
+
+{"update_id":653043376,
+"message":{"message_id":117,"from":{"id":5114909382,"is_bot":false,"first_name":"Hariadi, S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754371315,"text":"jadwal saya"}}
+📢 Pesan dari grup:
+🆔 ID Grup: -1002702335259
+📛 Nama Grup: JADWAL OTOMATIS
+👤 Pengirim: Hariadi, S.Pd
+
+{"update_id":653043377,
+"message":{"message_id":120,"from":{"id":5114909382,"is_bot":false,"first_name":"Hariadi, S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754371372,"text":"jadwal saya"}}
+📢 Pesan dari grup:
+🆔 ID Grup: -1002702335259
+📛 Nama Grup: JADWAL OTOMATIS
+👤 Pengirim: Hariadi, S.Pd
+
+{"update_id":653043378,
+"message":{"message_id":122,"from":{"id":5114909382,"is_bot":false,"first_name":"Hariadi, S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754371786,"text":"jadwal saya"}}
+📢 Pesan dari grup:
+🆔 ID Grup: -1002702335259
+📛 Nama Grup: JADWAL OTOMATIS
+👤 Pengirim: Hariadi, S.Pd
+
+{"update_id":653043379,
+"message":{"message_id":124,"from":{"id":5114909382,"is_bot":false,"first_name":"Hariadi, S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754371813,"text":"jadwal saya"}}
+Nama: Hariadi, S.Pd (Hariadi, S.Pd) | Hari: Selasa
+{"update_id":653043380,
+"message":{"message_id":126,"from":{"id":5114909382,"is_bot":false,"first_name":"Muhdir,S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754371933,"text":"jadwal saya"}}
+Nama: Muhdir,S.Pd (Muhdir,S.Pd) | Hari: Selasa
+{"update_id":653043384,
+"message":{"message_id":137,"from":{"id":5114909382,"is_bot":false,"first_name":"Muhdir,S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754373699,"text":"jadwal saya"}}
+Nama: Muhdir,S.Pd (Muhdir,S.Pd) | Hari: Selasa
+{"update_id":653043385,
+"message":{"message_id":141,"from":{"id":5969455758,"is_bot":false,"first_name":"Symsljihad","language_code":"en"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754756410,"text":"jadwal saya"}}
+Nama: Symsljihad (Symsljihad) | Hari: Minggu
+{"update_id":653043386,
+"message":{"message_id":143,"from":{"id":5969455758,"is_bot":false,"first_name":"Symsljihad","language_code":"en"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754756857,"new_chat_participant":{"id":6672008750,"is_bot":false,"first_name":"Hariadi, S.Pd","username":"Muammaruddin"},"new_chat_member":{"id":6672008750,"is_bot":false,"first_name":"Hariadi, S.Pd","username":"Muammaruddin"},"new_chat_members":[{"id":6672008750,"is_bot":false,"first_name":"Hariadi, S.Pd","username":"Muammaruddin"}]}}
+Nama: Symsljihad (Symsljihad) | Hari: Minggu
+{"update_id":653043387,
+"message":{"message_id":145,"from":{"id":6672008750,"is_bot":false,"first_name":"Hariadi, S.Pd","username":"Muammaruddin"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754756875,"text":"Jadwal saya"}}
+Nama: Hariadi, S.Pd (Hariadi, S.Pd) | Hari: Minggu
+{"update_id":653043388,
+"message":{"message_id":147,"from":{"id":6672008750,"is_bot":false,"first_name":"Hariadi, S.Pd","username":"Muammaruddin"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754756912,"text":"Weeeee"}}
+Nama: Hariadi, S.Pd (Hariadi, S.Pd) | Hari: Minggu
+{"update_id":653043389,
+"message":{"message_id":150,"from":{"id":5969455758,"is_bot":false,"first_name":"Symsljihad","language_code":"en"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1754838812,"text":"jadwal saya"}}
+Nama: Symsljihad (Symsljihad) | Hari: Minggu
+{"update_id":653043391,
+"message":{"message_id":154,"from":{"id":6672008750,"is_bot":false,"first_name":"Hariadi, S.Pd","username":"Muammaruddin"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755086008,"text":"Jadwal saya"}}
+Nama: Hariadi, S.Pd (Hariadi, S.Pd) | Hari: Rabu
+{"update_id":653043390,
+"message":{"message_id":12,"from":{"id":5969455758,"is_bot":false,"first_name":"Symsljihad","language_code":"en"},"chat":{"id":5969455758,"first_name":"Symsljihad","type":"private"},"date":1755027380,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+Nama: Symsljihad (Symsljihad) | Hari: Rabu
+{"update_id":653043395,
+"message":{"message_id":163,"from":{"id":5969455758,"is_bot":false,"first_name":"Symsljihad","language_code":"en"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755688714,"new_chat_participant":{"id":1371059752,"is_bot":false,"first_name":"Not","last_name":"Found","username":"Khayatullah"},"new_chat_member":{"id":1371059752,"is_bot":false,"first_name":"Not","last_name":"Found","username":"Khayatullah"},"new_chat_members":[{"id":1371059752,"is_bot":false,"first_name":"Not","last_name":"Found","username":"Khayatullah"}]}}
+Nama: Symsljihad (Symsljihad) | Hari: Rabu
+{"update_id":653043396,
+"message":{"message_id":165,"from":{"id":5114909382,"is_bot":false,"first_name":"Muhdir,S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755702253,"text":"jadwal saya"}}
+Nama: Muhdir,S.Pd (Muhdir,S.Pd) | Hari: Rabu
+{"update_id":653043397,
+"message":{"message_id":167,"from":{"id":1371059752,"is_bot":false,"first_name":"Not","last_name":"Found"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755702345,"text":"Jadwal Saya"}}
+Nama: Not Found (Not) | Hari: Rabu
+{"update_id":653043398,
+"message":{"message_id":169,"from":{"id":1371059752,"is_bot":false,"first_name":"Novia Helmayani, S. Pd"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755702414,"text":"Jadwal Saya"}}
+Nama: Novia Helmayani, S. Pd (Novia Helmayani, S. Pd) | Hari: Rabu
+{"update_id":653043399,
+"message":{"message_id":171,"from":{"id":1371059752,"is_bot":false,"first_name":"Novia Helmayani S.Pd"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755702560,"text":"Jadwal Saya"}}
+Nama: Novia Helmayani S.Pd (Novia Helmayani S.Pd) | Hari: Rabu
+{"update_id":653043400,
+"message":{"message_id":173,"from":{"id":5114909382,"is_bot":false,"first_name":"Muhdir,S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755702962,"text":"jadwal saya"}}
+Nama: Muhdir,S.Pd (Muhdir,S.Pd) | Hari: Rabu
+{"update_id":653043401,
+"message":{"message_id":175,"from":{"id":5114909382,"is_bot":false,"first_name":"Muhdir,S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755703420,"text":"jadwal saya"}}
+Nama: Muhdir,S.Pd (Muhdir,S.Pd) | Hari: Rabu
+{"update_id":653043402,
+"message":{"message_id":177,"from":{"id":5114909382,"is_bot":false,"first_name":"Muhdir, S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755703507,"text":"jadwal saya"}}
+Nama: Muhdir, S.Pd (Muhdir, S.Pd) | Hari: Rabu
+{"update_id":653043403,
+"message":{"message_id":179,"from":{"id":5114909382,"is_bot":false,"first_name":"Danial setiawan","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755829981,"text":"jadwal saya"}}
+Nama: Danial setiawan (Danial setiawan) | Hari: Jumat
+{"update_id":653043404,
+"message":{"message_id":180,"from":{"id":5114909382,"is_bot":false,"first_name":"Danial setiawan","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755830194,"text":"jadwal saya"}}
+Nama: Danial setiawan (Danial setiawan) | Hari: Jumat
+{"update_id":653043405,
+"message":{"message_id":181,"from":{"id":5114909382,"is_bot":false,"first_name":"Danial setiawan","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755831054,"text":"jadwal saya"}}
+Nama: Danial setiawan (Danial setiawan) | Hari: Jumat
+{"update_id":653043406,
+"message":{"message_id":183,"from":{"id":1371059752,"is_bot":false,"first_name":"Novia Helmayani, S.Pd"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755831352,"text":"jadwal saya"}}
+Nama: Novia Helmayani, S.Pd (Novia Helmayani, S.Pd) | Hari: Jumat
+{"update_id":653043407,
+"message":{"message_id":185,"from":{"id":5114909382,"is_bot":false,"first_name":"Muhdir, S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1755831387,"text":"jadwal saya"}}
+Nama: Muhdir, S.Pd (Muhdir, S.Pd) | Hari: Jumat
+{"update_id":653043408,
+"message":{"message_id":188,"from":{"id":5114909382,"is_bot":false,"first_name":"Muhdir, S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1756391987,"text":"Jadwal saya"}}
+Nama: Muhdir, S.Pd (Muhdir, S.Pd) | Hari: Kamis
+{"update_id":653043409,
+"message":{"message_id":190,"from":{"id":1371059752,"is_bot":false,"first_name":"Novia Helmayani, S.Pd"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1756392034,"text":"Jadwal saya"}}
+Nama: Novia Helmayani, S.Pd (Novia Helmayani, S.Pd) | Hari: Kamis
+{"update_id":653043410,
+"message":{"message_id":192,"from":{"id":5114909382,"is_bot":false,"first_name":"Muhdir, S.Pd","username":"Dino22345"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1756564698,"text":"jadwal saya"}}
+Nama: Muhdir, S.Pd (Muhdir, S.Pd) | Hari: Sabtu
+{"update_id":653043411,
+"message":{"message_id":193,"from":{"id":1371059752,"is_bot":false,"first_name":"Novia Helmayani, S.Pd"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1756573870,"text":"jadwal saya"}}
+Nama: Novia Helmayani, S.Pd (Novia Helmayani, S.Pd) | Hari: Minggu
+{"update_id":653043412,
+"message":{"message_id":195,"from":{"id":1371059752,"is_bot":false,"first_name":"Novia Helmayani, S.Pd"},"chat":{"id":-1002702335259,"title":"JADWAL OTOMATIS","type":"supergroup"},"date":1756573937,"text":"Apakah ada kegiatan saya hari ini"}}
+Nama: Novia Helmayani, S.Pd (Novia Helmayani, S.Pd) | Hari: Minggu
+
+
+
