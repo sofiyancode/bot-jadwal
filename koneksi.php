@@ -1,7 +1,7 @@
 <?php
 $host = "mysql.railway.internal";
 $user = "root"; // Jika pakai XAMPP default
-$pass = "root";
+$pass = "MXQVrhvnvnjIEUPvRATGSaaCFeuBnZma";
 $db   = "railway"; // Ganti sesuai nama database kamu
 
 $conn = new mysqli($host, $user, $pass, $db);
